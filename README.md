@@ -47,3 +47,15 @@ By default, GitHub Actions might be disabled on a new repo.
 - The Python script fetches your latest accepted submissions via the LeetCode GraphQL API.
 - It saves them locally into the `solutions` folder.
 - An auto-commit action automatically pushes any changes back to this repo.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+<!---LeetCode Topics End-->
