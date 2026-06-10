@@ -71,6 +71,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
@@ -97,6 +98,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
