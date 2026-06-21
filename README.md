@@ -75,6 +75,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0001-two-sum](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +94,7 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -102,6 +104,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | ------- |
 | [0001-two-sum](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -135,5 +138,14 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
