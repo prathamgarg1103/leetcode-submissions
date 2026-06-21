@@ -67,6 +67,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0148-sort-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | ------- |
 | [0001-two-sum](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
