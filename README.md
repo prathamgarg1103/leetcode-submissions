@@ -76,6 +76,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0142-linked-list-cycle-ii](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -96,6 +97,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | ------- |
 | [0148-sort-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -121,21 +123,25 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
