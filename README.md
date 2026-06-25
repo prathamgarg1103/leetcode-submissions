@@ -82,6 +82,7 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -120,6 +121,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -127,12 +129,14 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
