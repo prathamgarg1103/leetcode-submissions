@@ -63,6 +63,7 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -98,6 +99,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -110,6 +112,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | ------- |
 | [0001-two-sum](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0283-move-zeroes) |
