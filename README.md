@@ -84,6 +84,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +124,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0283-move-zeroes](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -188,10 +190,12 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0704-binary-search) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -205,6 +209,7 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -213,5 +218,14 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
