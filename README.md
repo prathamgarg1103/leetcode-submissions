@@ -53,6 +53,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0148-sort-list) |
@@ -64,6 +65,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0141-linked-list-cycle) |
