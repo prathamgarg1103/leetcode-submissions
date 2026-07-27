@@ -115,6 +115,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
@@ -132,6 +133,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0283-move-zeroes](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -239,4 +241,8 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
