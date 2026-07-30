@@ -208,6 +208,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | ------- |
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -218,6 +219,7 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
@@ -251,4 +253,8 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
