@@ -261,4 +261,5 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
