@@ -260,6 +260,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0595-big-countries) |
