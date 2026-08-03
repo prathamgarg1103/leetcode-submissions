@@ -269,4 +269,5 @@ By default, GitHub Actions might be disabled on a new repo.
 | [1148-article-views-i](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1683-invalid-tweets) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
