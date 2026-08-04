@@ -270,6 +270,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0620-not-boring-movies](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1280-students-and-examinations) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1683-invalid-tweets) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
