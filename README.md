@@ -206,6 +206,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
