@@ -74,6 +74,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0160-intersection-of-two-linked-lists](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -113,6 +114,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0148-sort-list](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -132,6 +134,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0169-majority-element](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -257,6 +260,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Database
 |  |
@@ -275,4 +279,8 @@ By default, GitHub Actions might be disabled on a new repo.
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1683-invalid-tweets) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
