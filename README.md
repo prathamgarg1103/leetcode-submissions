@@ -137,6 +137,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0455-assign-cookies](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -198,6 +199,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0102-binary-tree-level-order-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -283,4 +285,8 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
