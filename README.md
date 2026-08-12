@@ -179,6 +179,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0144-binary-tree-preorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0785-is-graph-bipartite](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -201,6 +202,7 @@ By default, GitHub Actions might be disabled on a new repo.
 | [0101-symmetric-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
@@ -297,4 +299,20 @@ By default, GitHub Actions might be disabled on a new repo.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
