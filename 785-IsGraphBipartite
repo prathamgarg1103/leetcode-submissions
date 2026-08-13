@@ -1,0 +1,24 @@
+// Last updated: 8/13/2026, 11:34:36 AM
+1class Solution {
+2public:
+3    bool isBipartite(vector<vector<int>>& graph) {
+4        queue<int>q;
+5        int n=graph.size();
+6        vector<int>vis(n,-1);
+7        for(int i=0;i<n;i++){
+8            if (vis[i] != -1) continue;
+9            q.push(i);
+10            vis[i]=0;
+11                while(!q.empty()){
+12                    int node=q.front();
+13                    q.pop();
+14                    for(auto it:graph[node]){
+15                        if(vis[it]==-1){
+16                            vis[it]=1-vis[node];
+17                            q.push(it);
+18                        }else if(vis[node]==vis[it])return false;
+19                    }
+20                }
+21        }return true;
+22    }
+23};
