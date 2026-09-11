@@ -275,6 +275,7 @@ By default, GitHub Actions might be disabled on a new repo.
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/prathamgarg1103/leetcode-submissions/tree/master/0570-managers-with-at-least-5-direct-reports) |
